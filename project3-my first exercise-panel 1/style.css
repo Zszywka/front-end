@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	/*background-color: white;*/
+	background-image: url(https://static.pexels.com/photos/261403/pexels-photo-261403.jpeg);
+	}
+.container {
+	margin: 0 auto;
+	max-width; 700px;
+	background: #FFF;
+	width: 700px;
+	}
+header {
+	padding: 30px;
+	background-image: url(https://static.pexels.com/photos/261403/pexels-photo-261403.jpeg);
+	}
+header>h1 {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 48px;
+	}
+header>h1, header>p {
+	text-align: center;
+	color: #130f40;
+	}
+section {
+	padding: 0 20%;
+	}
+#equipment>h2 {
+	color:#130f40;
+	margin-top: 60px;
+	font-size: 28px;
+	}
+#underwater>h2 {
+	color: #30336b;
+	margin-top: 40px;
+	}
+img {
+	width: 100%;
+	}
+footer {
+	background-color: white;
+	margin-top: 30px;
+
+	}
