@@ -157,11 +157,7 @@ footer p {
     display: block;
     text-align: center;
   }
-  nav .logo {
-  	display: block;
-  	float: none;
-    text-align: center;
-  }
+ 
   /* hero */
   header h1 {
     font-size: 5vw;
